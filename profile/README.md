@@ -30,6 +30,11 @@ Conquer any math problem with StarSpark. Get step-by-step guidance, visualize so
 
 ![image](https://github.com/user-attachments/assets/b9f41d9d-511f-4f02-a8a9-03807a177cf9)
 
+*   **Video of Starspark in action:**
+
+[![Watch the video](https://img.youtube.com/vi/fwyzmFjl6eQ/maxresdefault.jpg)](https://youtu.be/fwyzmFjl6eQ)
+
+
 
 ## Join the Spark (Community - *Important*)
 
